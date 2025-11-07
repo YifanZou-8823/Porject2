@@ -1,0 +1,44 @@
+{
+  "riddles": {
+    "Paris": {
+      "question": "In this romantic city, love blooms beneath the Eiffel Tower as a shy waitress changes lives with small acts of kindness.",
+      "answer": "Amelie"
+    },
+    "New York": {
+      "question": "A young man swings between skyscrapers, saving the city that never sleeps from villains.",
+      "answer": "Spider-Man"
+    },
+    "Tokyo": {
+      "question": "In this neon city, a lonely woman and a foreigner find quiet connection in sleepless nights.",
+      "answer": "Lost in Translation"
+    },
+    "Rome": {
+      "question": "A woman on a Vespa tours ancient ruins and falls in love with an American reporter.",
+      "answer": "Roman Holiday"
+    },
+    "Berlin": {
+      "question": "Invisible angels watch over this divided city, listening to human thoughts from above.",
+      "answer": "Wings of Desire"
+    },
+    "香港 - Hong Kong": {
+      "question": "Two neighbors pass by in narrow corridors, their love restrained by walls and time.",
+      "answer": "In the Mood for Love"
+    },
+    "London": {
+      "question": "A bookseller meets a famous actress and learns that love can be found in unexpected places.",
+      "answer": "Notting Hill"
+    },
+    "Los Angeles": {
+      "question": "A pianist and an actress chase their dreams in a city where stars dance among the clouds.",
+      "answer": "La La Land"
+    },
+    "Mumbai": {
+      "question": "A boy from the slums answers questions that reveal his entire life story.",
+      "answer": "Slumdog Millionaire"
+    },
+    "Cairo": {
+      "question": "An adventurer disturbs an ancient tomb and awakens a deadly curse.",
+      "answer": "The Mummy"
+    }
+  }
+}
